@@ -1,7 +1,7 @@
 list=[]
 while True:
     num=int(input('Type a number:'))
-    lista.append(num)
+    list.append(num)
     cont=str(input('Do you want to continue [Y/N]'))
     if cont in 'Nn':
         break
